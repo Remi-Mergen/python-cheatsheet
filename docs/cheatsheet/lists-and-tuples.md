@@ -40,7 +40,7 @@ Lists are one of the 4 data types in Python used to store collections of data.
 >>> furniture[-3]
 # 'chair'
 
->>> f'The {furniture[-1]} is bigger than the {furniture[-3]}'
+>>> 'The {furniture[-1]} is bigger than the {furniture[-3]}'
 # 'The shelf is bigger than the chair'
 ```
 
